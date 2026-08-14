@@ -89,17 +89,6 @@ Based on the analysis:
 •	Python — Synthetic dataset generation
 •	GitHub — Project documentation and version control
 
-
-# Project Structure
-E-Commerce-Analytics
-│
-├── data
-├── sql
-│   └── ecommerce_analysis.sql
-├── documentation
-│   └── Business_Case_Study.pdf
-└── README.md
-
 # Conclusion
 The analysis shows that the company has a strong revenue and gross-profit base, but significant opportunities exist to improve the quality and sustainability of that growth.
 The key priorities are to improve Electronics margins, expand high-margin categories, retain valuable customers, reduce returns, optimize marketing investment, and shift decision-making from revenue-focused to profit-focused performance management.
