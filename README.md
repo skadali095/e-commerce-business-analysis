@@ -21,17 +21,15 @@ Use SQL to analyze transactional and marketing data and provide data-driven insi
 •	Overall profitability 
 
 # Dataset
-The project uses relational e-commerce data containing:
-Dataset	Records
-Customers	60,000
-Products	300
-Orders	75,000
-Order Items	199,84
-Product Returns	5630
-Marketing Campaigns	60
-Campaign Performance	1,762
-
-Dataset: This project uses a synthetically generated e-commerce dataset designed to simulate realistic business transactions across customers, orders, products, returns, and marketing campaigns. The dataset is intended for analytical and portfolio demonstration purposes.
+This project uses a synthetically generated e-commerce dataset designed to simulate realistic business transactions across customers, orders, products, returns, and marketing campaigns. The dataset is intended for analytical and portfolio demonstration purposes.
+It uses relational e-commerce data containing:
+1. Customers
+2. Products
+3. Orders
+4. Order Items
+5. Product Returns
+6. Marketing Campaigns
+7. Campaign Performance
 
 # Executive KPIs
 KPI	Result
