@@ -33,14 +33,14 @@ It uses relational e-commerce data containing:
 
 # Executive KPIs
 KPI	Result
-Total Revenue	₹3.67B
-Total Cost	₹2.35B
-Gross Profit	₹1.32B
-Gross Profit Margin	35.93%
-Average Order Value	₹48,203.92
-Customers with Sales	36,399
-Units Sold	275,764
-Order Return Rate	7.77%
+1. Total Revenue- ₹3.67B
+2. Total Cost- ₹2.35B
+3. Gross Profit- ₹1.32B
+4. Gross Profit- Margin	35.93%
+5. Average Order Value- ₹48,203.92
+6. Customers with Sales-	36,399
+7. Units Sold-	275,764
+8. Order Return Rate-7.77%
 
 # Analysis Performed
 1. Executive Overview:
@@ -85,18 +85,18 @@ Based on the analysis:
 7.	Adopt profit-based performance measurement instead of evaluating success through revenue alone. 
 
 # Tools Used
-•	MySQL — Database management and SQL analysis 
-•	Python — Synthetic dataset generation 
+•	MySQL — Database management and SQL analysis
+•	Python — Synthetic dataset generation
 •	GitHub — Project documentation and version control
 
 
 # Project Structure
-E-Commerce-Analytics/
+E-Commerce-Analytics
 │
-├── data/
-├── sql/
+├── data
+├── sql
 │   └── ecommerce_analysis.sql
-├── documentation/
+├── documentation
 │   └── Business_Case_Study.pdf
 └── README.md
 
