@@ -1,5 +1,4 @@
 # E-Commerce Profitability & Performance Analysis
-SQL | MySQL | Business Analytics
 An end-to-end SQL business analytics project analyzing an e-commerce company's sales, customers, products, operations, returns, marketing campaigns, and profitability to identify the key drivers of sustainable and profitable growth.
 
 # Business Problem
