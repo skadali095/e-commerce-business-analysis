@@ -5,20 +5,20 @@ An end-to-end SQL business analytics project analyzing an e-commerce company's s
 # Business Problem
 The company is generating strong revenue, but management needs to understand whether revenue growth is translating into sustainable profitability.
 The business wants to identify:
-•	Which products and categories drive revenue and profit? 
-•	Which customers generate the most value? 
-•	Which marketing channels and campaigns are most effective? 
-•	What factors are contributing to product returns? 
-•	Where are the biggest opportunities to improve profitability? 
+1. Which products and categories drive revenue and profit? 
+2. Which customers generate the most value? 
+3. Which marketing channels and campaigns are most effective? 
+4. What factors are contributing to product returns? 
+5. Where are the biggest opportunities to improve profitability? 
 
 # Project Objective
 Use SQL to analyze transactional and marketing data and provide data-driven insights and business recommendations focused on:
-•	Revenue and sales performance 
-•	Customer value and retention 
-•	Product and category profitability 
-•	Operational and return performance 
-•	Marketing effectiveness 
-•	Overall profitability 
+1. Revenue and sales performance 
+2. Customer value and retention 
+3. Product and category profitability 
+4. Operational and return performance 
+5. Marketing effectiveness 
+6. Overall profitability 
 
 # Dataset
 This project uses a synthetically generated e-commerce dataset designed to simulate realistic business transactions across customers, orders, products, returns, and marketing campaigns. The dataset is intended for analytical and portfolio demonstration purposes.
@@ -44,35 +44,35 @@ KPI	Result
 
 # Analysis Performed
 1. Executive Overview:
-Evaluated overall revenue, cost, profit, margin, AOV, customers, units sold, and returns.
+   Evaluated overall revenue, cost, profit, margin, AOV, customers, units sold, and returns.
 2. Sales Performance Analysis:
-Analyzed monthly and yearly revenue, orders, AOV, gross profit, profitability trends, payment methods, and seasonality.
+   Analyzed monthly and yearly revenue, orders, AOV, gross profit, profitability trends, payment methods, and seasonality.
 3. Customer Analysis:
-Evaluated customer spending, repeat purchasing, revenue concentration, customer profitability, geographic performance, and customer acquisition trends.
+   Evaluated customer spending, repeat purchasing, revenue concentration, customer profitability, geographic performance, and customer acquisition trends.
 4. Product Analysis:
-Analyzed category revenue, profit, margins, products, brands, suppliers, units sold, pricing, ratings, and product returns.
+   Analyzed category revenue, profit, margins, products, brands, suppliers, units sold, pricing, ratings, and product returns.
 5. Operations & Returns Analysis:
-Evaluated order status, payment methods, basket size, discounts, return rates, return reasons, and products with higher return activity.
+   Evaluated order status, payment methods, basket size, discounts, return rates, return reasons, and products with higher return activity.
 6. Marketing Campaign Analysis:
-Analyzed campaign revenue, spending, conversions, CTR, CPC, CPA, ROAS, channel contribution, and campaign-level performance.
+   Analyzed campaign revenue, spending, conversions, CTR, CPC, CPA, ROAS, channel contribution, and campaign-level performance.
 7. Profitability Analysis:
-Compared revenue contribution with profit contribution to identify profitable and underperforming areas of the business.
+   Compared revenue contribution with profit contribution to identify profitable and underperforming areas of the business.
 
 # Key Business Insights
 1. Electronics drive revenue but underperform on margin
-Electronics generate 57.53% of revenue but only 38.95% of gross profit, with a 24.32% gross margin.
+   Electronics generate 57.53% of revenue but only 38.95% of gross profit, with a 24.32% gross margin.
 2. High-margin categories provide growth opportunities
-Apparel, Beauty & Health, and Sports & Outdoors achieve margins above 50%, significantly higher than Electronics.
+   Apparel, Beauty & Health, and Sports & Outdoors achieve margins above 50%, significantly higher than Electronics.
 3. Repeat customers are the core revenue base
-Repeat customers contribute 75.87% of total revenue, highlighting the importance of customer retention.
+   Repeat customers contribute 75.87% of total revenue, highlighting the importance of customer retention.
 4. Revenue concentration does not equal profit concentration
-The top 10 customers contribute 33.26% of revenue but only 28.55% of gross profit, showing that high-revenue customers are not necessarily the most profitable.
+   The top 10 customers contribute 33.26% of revenue but only 28.55% of gross profit, showing that high-revenue customers are not necessarily the most profitable.
 5. Returns represent an operational opportunity
-The overall order return rate is 7.77%, with Apparel showing the highest category return rate at 7.03%.
+   The overall order return rate is 7.77%, with Apparel showing the highest category return rate at 7.03%.
 6. Marketing efficiency varies by channel
-Social Media delivers the highest channel ROAS at 37.97, followed by Affiliate at 37.51, while PPC has the lowest at 30.28.
+   Social Media delivers the highest channel ROAS at 37.97, followed by Affiliate at 37.51, while PPC has the lowest at 30.28.
 7. Sales are strongly seasonal
-October–December represents the strongest sales period, with November generating the highest monthly revenue.
+   October–December represents the strongest sales period, with November generating the highest monthly revenue.
 
 # Business Recommendations
 Based on the analysis:
@@ -85,9 +85,9 @@ Based on the analysis:
 7.	Adopt profit-based performance measurement instead of evaluating success through revenue alone. 
 
 # Tools Used
-•	MySQL — Database management and SQL analysis
-•	Python — Synthetic dataset generation
-•	GitHub — Project documentation and version control
+1. MySQL — Database management and SQL analysis
+2. Python — Synthetic dataset generation
+3. GitHub — Project documentation and version control
 
 # Conclusion
 The analysis shows that the company has a strong revenue and gross-profit base, but significant opportunities exist to improve the quality and sustainability of that growth.
